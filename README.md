@@ -1,6 +1,6 @@
 # NBA
 
-## NBA Player Performance Predictive Model
+## NBA Player Career Longevity Predictive Model
 
 ### nba1 - Perform Feature Engineering
 1. Package import
